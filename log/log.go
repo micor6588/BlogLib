@@ -1,6 +1,6 @@
 package main
 
-import "Projects/mylog"
+import "BlogLib/mylog"
 
 // 测试我们自己写的日志
 func main() {
